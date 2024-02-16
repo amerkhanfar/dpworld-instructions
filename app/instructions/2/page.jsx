@@ -33,9 +33,9 @@ POINTS” QR Code first!</Text>
                 <Text className={PilatDemi.className} style={{color:'white',textAlign:'center',lineHeight:'27px'}}>INSTRUCTIONS: <br/> <span className={PilatLight.className}>This game revolves around memory matching. You
                 At the heart of our mission is fostering a culture of
 collaboration and teamwork to enhance our collective
-success. In this game, your task is to work closely with a
+success.<br/> In this game, your task is to work closely with a
 
-partner to solve a puzzle.
+partner to solve a puzzle.<br/>
 
 Guide and support your blindfolded teammate to
 successfully complete the challenge together.</span></Text>
