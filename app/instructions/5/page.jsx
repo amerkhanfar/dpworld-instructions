@@ -83,15 +83,17 @@ the following items prior to him arriving in Japan on the 20th of
 February. Please assist Jack in filling and shipping the
 containers so he can receive these items on time.
 
-<ul >
+
+      </span>
+      </div>
+      <div style={{width:'50%' ,alignSelf:'center'}}>  
+      <ul>
     <li>2 Kitchen appliances</li>
     <li>1 TV</li>
     <li>1 Bed</li>
 </ul>
-      </span>
-      </div>
 
-
+</div>
 
  
       </How>
@@ -160,14 +162,18 @@ short on time. Please help Jane pack the containers as she is
 
 stressed out. Hurry! Time is running out!
 
-<ul>
+
+      </span>
+      </div>
+<div style={{width:'30%' ,alignSelf:'center'}}>
+<ul >
     <li>3 furniture</li>
     <li>2 TVs</li>
     <li>1 pet</li>
     <li>1 car</li>
 </ul>
-      </span>
-      </div>
+
+</div>
 
 
 
@@ -238,15 +244,18 @@ the move coming close, Marc can only prepare the boxes for
 shipment on Saturday. Advise him on the best day of shipping in
 order to make sure these arrive the day after his parents
 
-<ul >
+
+      </span>
+      </div>
+      <div style={{width:'30%' ,alignSelf:'center'}}> 
+      
+      <ul >
     <li>1 Sofa Bed</li>
     <li>1 Cutlery Set</li>
     <li>1 Lamp</li>
     <li>3 Blankets</li>
 </ul>
-      </span>
       </div>
-
 
 
  
