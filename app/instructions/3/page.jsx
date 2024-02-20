@@ -29,10 +29,10 @@ POINTS” QR Code first!</Text>
             </TextContainer>
 
             <TextContainer>
-                <Text className={PilatDemi.className} style={{color:'white',textAlign:'center',lineHeight:'27px'}}>INSTRUCTIONS: <br/> <span className={PilatLight.className}>This game revolves around memory matching. You
-Grab a partner and ge ready to tap your way to victory!
-                This is a head to head physical running race between 2 players. As you race side by side, keep an eye on your opponoent's oves and change your strategy as needed.
-                Let the faestest runner take home the win!
+                <Text className={PilatDemi.className} style={{color:'white',textAlign:'center',lineHeight:'27px'}}>INSTRUCTIONS: <br/> <span className={PilatLight.className}>This game revolves around memory matching.
+Grab a partner and get ready to tap your way to victory!
+                This is a head to head physical running race between 2 players.<br/> As you race side by side, keep an eye on your opponent's moves and change your strategy as needed.<br/>
+                Let the fastest runner take home the win!
                 Ready, set, go!</span></Text>
             </TextContainer>
 
