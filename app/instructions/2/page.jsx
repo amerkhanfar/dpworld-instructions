@@ -37,7 +37,7 @@ success.<br/> In this game, your task is to work closely with a
 
 partner to solve a puzzle.<br/>
 
-Guide and support your blindfolded teammate to
+Guide and support your teammate to
 successfully complete the challenge together.</span></Text>
             </TextContainer>
 
