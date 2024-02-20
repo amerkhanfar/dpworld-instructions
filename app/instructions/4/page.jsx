@@ -42,7 +42,7 @@ const page = () => {
             Health, Safety, and Sustainability, not just for us but also for our
             communities. In this game, your mission is to construct a bridge
             that will enable a young girl to cross over to a safer, cleaner, and
-            healthier environment. your feet within the time limit!
+            healthier environment.
           </span>
         </Text>
       </TextContainer>
@@ -65,7 +65,7 @@ How to Play?
             <div>
           Building the Bridge: <br /> 
           <span className={PilatLight.className}>
-          Use magnetic blocks to construct a bridge. The challenge is to
+          Use 6 to 9 magnetic blocks to construct a bridge. The challenge is to
 build a sturdy and reliable bridge using only one block at a time.
           </span>
           </div>
