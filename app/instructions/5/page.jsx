@@ -79,8 +79,8 @@ Ready, set, fulfil!
       THE STORY LINE: <br /> 
       <span className={PilatLight.className}>
       Jack is repatriating from Dubai to Japan and he needs to move
-the following items prior to him arriving in Japan on the 20th of
-February. Please assist Jack in filling and shipping the
+the following items prior to him arriving in Japan on the 5th of
+March. Please assist Jack in filling and shipping the
 containers so he can receive these items on time.
 
 
